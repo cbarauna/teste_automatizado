@@ -3,12 +3,12 @@
 Api usada para exemplos de teste automatizados feito com base no modulo5 do bootcampo da RocketSeat https://rocketseat.com.br/bootcamp, api usada com o jest https://jestjs.io/ 
 
 ### Dependencias
-jest,
+jest  - https://jestjs.io/,
 
-express,
+express - https://expressjs.com/,
 
-sequelize,
+sequelize - http://docs.sequelizejs.com/,
 
-nodemon,
+nodemon - https://nodemon.io/,
 
-sequelize-cli
+sequelize-cli - https://github.com/sequelize/cli
